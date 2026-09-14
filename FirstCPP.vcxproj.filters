@@ -16,6 +16,9 @@
     <Filter Include="Source Files\Homeworks">
       <UniqueIdentifier>{3b0436a3-ca2f-4463-aeed-8ca3f43207ef}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Classworks">
+      <UniqueIdentifier>{c04b2727-c1ed-4a0f-9088-43967e3813df}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Homework1-10.cpp">
@@ -23,6 +26,9 @@
     </ClCompile>
     <ClCompile Include="Program.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Classwork.cpp">
+      <Filter>Source Files\Classworks</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

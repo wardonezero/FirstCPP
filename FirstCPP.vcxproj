@@ -139,6 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Classwork.cpp" />
     <ClCompile Include="Homework1-10.cpp" />
     <ClCompile Include="Program.cpp" />
   </ItemGroup>
