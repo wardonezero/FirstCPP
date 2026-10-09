@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="FirstCPP.vcxproj" />
+  <Project Path="ChessEUA/ChessEUA.vcxproj" Id="3d98a0c1-350c-4376-b13d-c81fb89c6eb8" />
+  <Project Path="FirstCPP.vcxproj" Id="7811e528-6c3f-43cd-87d5-9b59ab0dc82a" />
 </Solution>
