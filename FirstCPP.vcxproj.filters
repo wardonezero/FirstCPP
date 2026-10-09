@@ -27,13 +27,19 @@
     <ClCompile Include="Program.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="15September2026.cpp">
+    <ClCompile Include="Class15September2026.cpp">
       <Filter>Source Files\Classworks</Filter>
     </ClCompile>
-    <ClCompile Include="19Spetember2026.cpp">
+    <ClCompile Include="Home19September2026.cpp">
       <Filter>Source Files\Homeworks</Filter>
     </ClCompile>
-    <ClCompile Include="19September2026.cpp">
+    <ClCompile Include="Class19September2026.cpp">
+      <Filter>Source Files\Classworks</Filter>
+    </ClCompile>
+    <ClCompile Include="Home22September2026.cpp">
+      <Filter>Source Files\Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="Class22September2026.cpp">
       <Filter>Source Files\Classworks</Filter>
     </ClCompile>
   </ItemGroup>
