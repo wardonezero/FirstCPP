@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Class01October2026.cpp" />
+    <ClCompile Include="Class06October2026.cpp" />
     <ClCompile Include="Class15September2026.cpp" />
     <ClCompile Include="Class19September2026.cpp" />
     <ClCompile Include="Class22September2026.cpp" />
