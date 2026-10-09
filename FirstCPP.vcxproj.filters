@@ -30,5 +30,11 @@
     <ClCompile Include="15September2026.cpp">
       <Filter>Source Files\Classworks</Filter>
     </ClCompile>
+    <ClCompile Include="19Spetember2026.cpp">
+      <Filter>Source Files\Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="19September2026.cpp">
+      <Filter>Source Files\Classworks</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
