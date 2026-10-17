@@ -18,6 +18,7 @@ int main() {
 	int a, b;
 	cout << "Enter A, B: ";
 	cin >> a >> b;
+	
 	int product = 1;
 
 	for (int i = a; i <= b; i++) {
@@ -25,4 +26,12 @@ int main() {
 	}
 
 	cout << product << endl;
+
+	int sum = 0;
+	
+	for (int i = a; i <= b; i++) {
+		sum =sum + i*i;
+	}
+	
+	cout << sum << endl;
 }
