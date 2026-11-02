@@ -4,7 +4,7 @@
 using namespace std;
 
 void main() {
-	// 11
+	//11
 	int a = 2,
 		b = 6,
 		x = 6;
@@ -22,7 +22,7 @@ void main() {
 
 	cout << "Y = " << y << endl;
 
-	// 12
+	//12
 	if (-5 <= x and x >= 5) {
 		y = pow((1 + a * a), 6);
 	}
@@ -35,7 +35,7 @@ void main() {
 
 	cout << "Y = " << y << endl;
 
-	// 17
+	//17
 	int z = 11;
 	if (abs(a) > 3) {
 		y = pow(log2(4 + a * a), 5) + tan(z + a);
@@ -47,7 +47,7 @@ void main() {
 
 	cout << "Y = " << y << endl;
 
-	// 18
+	//18
 	if (1 <= x and x >= 7) {
 		y = pow(abs(x) + 2 * abs(z), 1.0 / 4.0) + exp(abs(x + 1));
 	}
@@ -57,7 +57,7 @@ void main() {
 
 	cout << "Y = " << y << endl;
 
-	// 23
+	//23
 	int c = 1;
 	if (a == 1 or b == 1 or c == 1) {
 		cout << "true" << endl;
