@@ -80,12 +80,14 @@ int main() {
 
 	cout << "Enter a natural number n: ";
 	cin >> n;
+
 	if (n <= 1) {
 		cout << "Not prime" << endl;
 	}
 	else {
 		int i = 2;
 		bool isPrime = true;
+
 		while (i * i <= n && isPrime) {
 			if (n % i == 0) {
 				isPrime = false;
