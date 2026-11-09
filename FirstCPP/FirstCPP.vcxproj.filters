@@ -51,5 +51,35 @@
     <ClCompile Include="Home02November2026.cpp">
       <Filter>Source Files\Homeworks</Filter>
     </ClCompile>
+    <ClCompile Include="Class02November2026.cpp">
+      <Filter>Source Files\Classworks</Filter>
+    </ClCompile>
+    <ClCompile Include="Class07November2026.cpp">
+      <Filter>Source Files\Classworks</Filter>
+    </ClCompile>
+    <ClCompile Include="Class09November2026.cpp">
+      <Filter>Source Files\Classworks</Filter>
+    </ClCompile>
+    <ClCompile Include="Class12October2026.cpp">
+      <Filter>Source Files\Classworks</Filter>
+    </ClCompile>
+    <ClCompile Include="Class13October2026.cpp">
+      <Filter>Source Files\Classworks</Filter>
+    </ClCompile>
+    <ClCompile Include="Class17October2026.cpp">
+      <Filter>Source Files\Classworks</Filter>
+    </ClCompile>
+    <ClCompile Include="Home07November2026.cpp">
+      <Filter>Source Files\Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="Home13October2026.cpp">
+      <Filter>Source Files\Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="Home17October2026.cpp">
+      <Filter>Source Files\Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="Home10November2026.cpp">
+      <Filter>Source Files\Homeworks</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

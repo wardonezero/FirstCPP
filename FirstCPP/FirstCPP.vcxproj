@@ -140,12 +140,22 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Class01October2026.cpp" />
+    <ClCompile Include="Class02November2026.cpp" />
     <ClCompile Include="Class06October2026.cpp" />
+    <ClCompile Include="Class07November2026.cpp" />
+    <ClCompile Include="Class09November2026.cpp" />
+    <ClCompile Include="Class12October2026.cpp" />
+    <ClCompile Include="Class13October2026.cpp" />
     <ClCompile Include="Class15September2026.cpp" />
+    <ClCompile Include="Class17October2026.cpp" />
     <ClCompile Include="Class19September2026.cpp" />
     <ClCompile Include="Class22September2026.cpp" />
     <ClCompile Include="Home02November2026.cpp" />
+    <ClCompile Include="Home07November2026.cpp" />
     <ClCompile Include="Home09October2026.cpp" />
+    <ClCompile Include="Home10November2026.cpp" />
+    <ClCompile Include="Home13October2026.cpp" />
+    <ClCompile Include="Home17October2026.cpp" />
     <ClCompile Include="Home19September2026.cpp" />
     <ClCompile Include="Home22September2026.cpp" />
     <ClCompile Include="Homework1-10.cpp" />
