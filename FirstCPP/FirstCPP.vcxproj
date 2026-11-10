@@ -144,6 +144,7 @@
     <ClCompile Include="Class06October2026.cpp" />
     <ClCompile Include="Class07November2026.cpp" />
     <ClCompile Include="Class09November2026.cpp" />
+    <ClCompile Include="Class11November2026.cpp" />
     <ClCompile Include="Class12October2026.cpp" />
     <ClCompile Include="Class13October2026.cpp" />
     <ClCompile Include="Class15September2026.cpp" />
