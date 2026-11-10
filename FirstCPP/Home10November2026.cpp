@@ -69,7 +69,7 @@ int main() {
 
 	int reverse = 0;
 	while (num > 0) {
-		reverse *= 10 + (num % 10);
+		reverse = reverse * 10 + (num % 10);
 		num /= 10;
 	}
 
