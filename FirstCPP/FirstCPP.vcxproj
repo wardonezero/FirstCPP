@@ -144,6 +144,7 @@
     <ClCompile Include="Class06October2026.cpp" />
     <ClCompile Include="Class07November2026.cpp" />
     <ClCompile Include="Class09November2026.cpp" />
+    <ClCompile Include="Class10November2026.cpp" />
     <ClCompile Include="Class11November2026.cpp" />
     <ClCompile Include="Class12October2026.cpp" />
     <ClCompile Include="Class13October2026.cpp" />
@@ -156,6 +157,7 @@
     <ClCompile Include="Home09October2026.cpp" />
     <ClCompile Include="Home10November2026.cpp" />
     <ClCompile Include="Home13October2026.cpp" />
+    <ClCompile Include="Home16November2026.cpp" />
     <ClCompile Include="Home17October2026.cpp" />
     <ClCompile Include="Home19September2026.cpp" />
     <ClCompile Include="Home22September2026.cpp" />
