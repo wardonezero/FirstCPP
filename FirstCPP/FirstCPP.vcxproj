@@ -158,6 +158,7 @@
     <ClCompile Include="Home10November2026.cpp" />
     <ClCompile Include="Home13October2026.cpp" />
     <ClCompile Include="Home16November2026.cpp" />
+    <ClCompile Include="Home17November2026.cpp" />
     <ClCompile Include="Home17October2026.cpp" />
     <ClCompile Include="Home19September2026.cpp" />
     <ClCompile Include="Home22September2026.cpp" />
