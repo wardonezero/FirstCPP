@@ -162,6 +162,7 @@
     <ClCompile Include="Home17October2026.cpp" />
     <ClCompile Include="Home19September2026.cpp" />
     <ClCompile Include="Home22September2026.cpp" />
+    <ClCompile Include="Home23November2026.cpp" />
     <ClCompile Include="Homework1-10.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
