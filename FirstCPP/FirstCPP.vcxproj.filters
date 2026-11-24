@@ -96,5 +96,8 @@
     <ClCompile Include="Home23November2026.cpp">
       <Filter>Source Files\Homeworks</Filter>
     </ClCompile>
+    <ClCompile Include="Home24November2026.cpp">
+      <Filter>Source Files\Homeworks</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

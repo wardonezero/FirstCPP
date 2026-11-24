@@ -211,7 +211,7 @@ int main() {
 	}
 
 	cout << "Average of elements where index is perfext square: " << S / C << "\n";
-	
+
 	//247
 	cout << "---- 247 ----" << endl;
 
@@ -232,7 +232,7 @@ int main() {
 	cout << "---- 248 ----" << endl;
 
 	S = 0;
-	
+
 	for (int i = 0; i < n; ++i)
 	{
 		tp = ns[i] + i;
@@ -243,4 +243,29 @@ int main() {
 	}
 
 	cout << "Sum : " << S << "\n";
+
+	//249
+	cout << "---- 249 ----" << endl;
+
+	C = 0;
+
+	for (int i = 0; i < n; ++i) {
+		if (abs(ns[i] - i) > k)
+			++C;
+	}
+
+	cout << "Count of |N[i] - i| > " << k << ": " << C << "\n";
+
+	//250
+	cout << "---- 250 ----" << endl;
+
+	P = 1;
+
+	for (int i = 0; i < n; ++i)
+	{
+		if ((i * ns[i]) % 3 == 2)
+			P *= ns[i] * ns[i];
+	}
+
+	cout << "Product of N[i]^2 where (i * N[i]) / 3 Remains 2: " << P << "/n";
 }
